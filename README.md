@@ -8,19 +8,19 @@ L’objectif était de créer un mini jeu de données réaliste dans PostgreSQL,
 ## Contenu du projet
 
 - **Base de données PostgreSQL**  
-  Un script SQL crée une base avec plusieurs tables liées (ex : ventes, clients, produits) simulant un cas d’usage commercial.  
-  Données fictives, mais cohérentes, pour tester des analyses classiques (chiffre d’affaires, segmentation, évolution).
+  J'ai cree une base de donnee postgresql afin de me familiariser avec, puis ai importer le fichier .csv creer dans le dossier data pour creer la table.
+  Données fictives, mais cohérentes, pour tester des analyses classiques (Consomation, n. de Batiment, Energie..).
 
 - **Rapport Power BI**  
   Un fichier Power BI (.pbix) qui se connecte à la base PostgreSQL et présente :  
   - Des visualisations clés (barres, cartes, segments)  
-  - Des indicateurs synthétiques (CA, volume, parts de marché)  
-  - Des filtres dynamiques pour explorer les données
+  - Du code DAX pour permettre de classer les jours (lundi, mardi ...) dans le 3 eme graphique
 
 ## Objectifs
 
 - Maîtriser la création d’un modèle relationnel simple  
-- Savoir extraire des données via SQL dans PostgreSQL  
+- Savoir extraire des données dans PostgreSQL
+- Decouvrir Power Querry  
 - Réaliser un rapport Power BI clair et interactif  
 - Présenter un projet BI complet et opérationnel
 
