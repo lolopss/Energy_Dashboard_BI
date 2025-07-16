@@ -1,51 +1,51 @@
-date,energy_type,consumption_kwh,building_id
-2024-01-01,Water,58,1
-2024-01-02,Electricity,100,1
-2024-01-03,Electricity,87,1
-2024-01-04,Electricity,56,1
-2024-01-05,Water,169,1
-2024-01-06,Electricity,181,1
-2024-01-07,Gas,38,1
-2024-01-08,Electricity,53,1
-2024-01-09,Electricity,89,1
-2024-01-10,Water,184,1
-2024-01-11,Electricity,173,1
-2024-01-12,Electricity,196,1
-2024-01-13,Water,169,1
-2024-01-14,Gas,86,1
-2024-01-15,Gas,180,1
-2024-01-01,Gas,31,1
-2024-01-02,Electricity,138,1
-2024-01-03,Gas,101,1
-2024-01-04,Electricity,85,1
-2024-01-05,Gas,56,1
-2024-01-06,Electricity,127,1
-2024-01-07,Electricity,121,1
-2024-01-08,Gas,184,1
-2024-01-09,Gas,41,1
-2024-01-10,Water,147,1
-2024-01-11,Water,61,1
-2024-01-12,Gas,50,1
-2024-01-13,Water,105,1
-2024-01-14,Water,188,1
-2024-01-15,Gas,177,1
-2024-01-01,Electricity,47,1
-2024-01-02,Electricity,199,1
-2024-01-03,Electricity,104,1
-2024-01-04,Electricity,89,1
-2024-01-05,Electricity,127,1
-2024-01-06,Gas,146,1
-2024-01-07,Water,123,1
-2024-01-08,Electricity,124,1
-2024-01-09,Gas,83,1
-2024-01-10,Water,98,1
-2024-01-11,Water,195,1
-2024-01-12,Electricity,185,1
-2024-01-13,Water,73,1
-2024-01-14,Water,92,1
-2024-01-15,Electricity,148,1
-2024-01-01,Gas,99,1
-2024-01-02,Water,172,1
-2024-01-03,Electricity,113,1
-2024-01-04,Electricity,88,1
-2024-01-05,Electricity,110,1
+date,energy_type,consumption,building_id
+2024-01-01,Water (m3),58,1
+2024-01-02,Electricity (kwh),100,1
+2024-01-03,Electricity (kwh),87,1
+2024-01-04,Electricity (kwh),56,1
+2024-01-05,Water (m3),169,1
+2024-01-06,Electricity (kwh),181,1
+2024-01-07,Gas (m3),38,1
+2024-01-08,Electricity (kwh),53,1
+2024-01-09,Electricity (kwh),89,1
+2024-01-10,Water (m3),184,1
+2024-01-11,Electricity (kwh),173,1
+2024-01-12,Electricity (kwh),196,1
+2024-01-13,Water (m3),169,1
+2024-01-14,Gas (m3),86,1
+2024-01-15,Gas (m3),180,1
+2024-01-01,Gas (m3),31,1
+2024-01-02,Electricity (kwh),138,1
+2024-01-03,Gas (m3),101,1
+2024-01-04,Electricity (kwh),85,1
+2024-01-05,Gas (m3),56,1
+2024-01-06,Electricity (kwh),127,1
+2024-01-07,Electricity (kwh),121,1
+2024-01-08,Gas (m3),184,1
+2024-01-09,Gas (m3),41,1
+2024-01-10,Water (m3),147,1
+2024-01-11,Water (m3),61,1
+2024-01-12,Gas (m3),50,1
+2024-01-13,Water (m3),105,1
+2024-01-14,Water (m3),188,1
+2024-01-15,Gas (m3),177,1
+2024-01-01,Electricity (kwh),47,1
+2024-01-02,Electricity (kwh),199,1
+2024-01-03,Electricity (kwh),104,1
+2024-01-04,Electricity (kwh),89,1
+2024-01-05,Electricity (kwh),127,1
+2024-01-06,Gas (m3),146,1
+2024-01-07,Water (m3),123,1
+2024-01-08,Electricity (kwh),124,1
+2024-01-09,Gas (m3),83,1
+2024-01-10,Water (m3),98,1
+2024-01-11,Water (m3),195,1
+2024-01-12,Electricity (kwh),185,1
+2024-01-13,Water (m3),73,1
+2024-01-14,Water (m3),92,1
+2024-01-15,Electricity (kwh),148,1
+2024-01-01,Gas (m3),99,1
+2024-01-02,Water (m3),172,1
+2024-01-03,Electricity (kwh),113,1
+2024-01-04,Electricity (kwh),88,1
+2024-01-05,Electricity (kwh),110,1
